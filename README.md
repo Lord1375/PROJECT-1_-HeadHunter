@@ -56,13 +56,13 @@
 - ( ~500Мb), и для того чтобы его вам загрузить можно пройти по ссылке [Google Диск](https://drive.google.com/drive/folders/11QauhrA08_RHEaNTLw-oRS2b8WMqw1fI "dst-3.0_16_1_hh_database")    
 - Там же есть датасет [с курсами валют](https://drive.google.com/drive/folders/1xwYuf0wX-Zz-hrE_vb2G-0E2cMj8Vdls "ExchangeRates"), который будет использоваться в проекте
 
-После второй части (преобразование данных) я сохранил [промежуточный датасет](.\hh_database_preprocessed.csv)
+После второй части (преобразование данных) я сохранил [промежуточный датасет](https://github.com/Lord1375/PROJECT-1_-HeadHunter/blob/72eac0cee6bd3a5e3b34cb42789f572f52750c51/hh_database_preprocessed.csv)
     
-- В третьей части я использовал библиотеку Plotly для построения графиков(кроме п. 8), но т.к. данная библиотека в GitHub не отображается, я все изображения графиков скинул в папку [plotly](..\plotly) в формате HTML.
+- В третьей части я использовал библиотеку Plotly для построения графиков(кроме п. 8), но т.к. данная библиотека в GitHub не отображается, я все изображения графиков скинул в папку [plotly](https://github.com/Lord1375/PROJECT-1_-HeadHunter/blob/72eac0cee6bd3a5e3b34cb42789f572f52750c51/plotly) в формате HTML.
 - один из способов просмотра формата HTML является [этот сайт](https://nbviewer.org "nbviewer.org")
 - в этой же части были сделаны 2 дополнительных задания
 
-И после заключительной четвёртой части был сохранён окончательный вариант [датасета](..\hh_database_final)
+И после заключительной четвёртой части был сохранён окончательный вариант [датасета](https://github.com/Lord1375/PROJECT-1_-HeadHunter/blob/72eac0cee6bd3a5e3b34cb42789f572f52750c51/hh_database_final.csv)
     
 ***
     
